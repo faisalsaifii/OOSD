@@ -16,12 +16,16 @@ Single child of a single parent
 
 ### 2. Multiple inheritance
 
-![Multi Level Inheritence](./assets/Multilevel.svg)
+![Multiple Inheritence](./assets/Multiple.svg)
 
 ### 3. Hierarchical inheritance
 
-![Multiple Inheritence](./assets/Multiple.svg)
+![Hierarchical Inheritence](./assets/Hierarchical.svg)
 
 ### 4. Multilevel inheritance
 
+![Multi Level Inheritence](./assets/Multilevel.svg)
+
 ### 5. Hybrid inheritance
+
+![Hybrid Inheritence](./assets/Hybrid.svg)
