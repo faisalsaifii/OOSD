@@ -1,11 +1,17 @@
-# Downloads
+# PDF Notes
 
-## 1. <a href="./unit1.pdf" download>Unit 1</a>
+### Unit 1: <a href="./unit1.pdf" download>Download</a> or [Preview](./unit1.pdf)
 
-## 2. <a href="./unit2.1.pdf" download>Unit 2.1</a> and <a href="./unit2.2.pdf" download>Unit 2.2</a>
+### Unit 2.1: <a href="./unit2.1.pdf" download>Download</a> or [Preview](./unit1.pdf)
 
-## 3. <a href="./unit3.pdf" download>Unit 3.1</a> and <a href="./unit3.2.pdf" download>Unit 3.2</a>
+### Unit 2.2: <a href="./unit2.2.pdf" download>Download</a> or [Preview](./unit1.pdf)
 
-## 4. <a href="./unit4.1.pdf" download>Unit 4.1</a> and <a href="./unit4.2.pdf" download>Unit 4.2</a>
+### Unit 3.1: <a href="./unit3.pdf" download>Download</a> or [Preview](./unit1.pdf)
 
-## 5. <a href="./unit5.pdf" download>Unit 5</a>
+### Unit 3.2: <a href="./unit3.2.pdf" download>Download</a> or [Preview](./unit1.pdf)
+
+### Unit 4.1: <a href="./unit4.1.pdf" download>Download</a> or [Preview](./unit1.pdf)
+
+### Unit 4.2: <a href="./unit4.2.pdf" download>Download</a> or [Preview](./unit1.pdf)
+
+### Unit 5: <a href="./unit5.pdf" download>Download</a> or [Preview](./unit1.pdf)

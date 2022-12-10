@@ -14,4 +14,4 @@
 
 - [Polymorphism](./Objects&Classes/Polymorphism/README.md)
 
-## [Download Links](./PDF/README.md)
+## [PDF Notes](./PDF/README.md)
