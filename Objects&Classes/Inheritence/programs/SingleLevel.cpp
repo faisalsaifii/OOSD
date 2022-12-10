@@ -12,4 +12,6 @@ class base {
         }
 };
 
-class 
+class derived : public base {
+
+};

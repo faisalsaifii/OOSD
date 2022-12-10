@@ -1,3 +1,1 @@
 # C++
-
-[Return Home](/README.md)
