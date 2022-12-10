@@ -1,7 +1,0 @@
-name: Object Oriented System Design
-description: Notes
-url: "https://faisalsaifii.github.io/OOSD"
-markdown: kramdown
-highglighter: rouge
-theme: midnight
-remote_theme: pages-themes/midnight@v0.2.0
