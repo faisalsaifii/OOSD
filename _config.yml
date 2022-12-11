@@ -4,7 +4,7 @@ author:
   name: Faisal
   email: m.faisal.s@outlook.com
 minima:
-  skin: auto
+  skin: dark
   social_links:
     - { platform: devto,          user_url: "https://dev.to/jekyll" }
     - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
