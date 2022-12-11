@@ -1,9 +1,3 @@
----
-title: "OOSD"
-permalink: /
-layout: default
----
-
 # Object Oriented System Design
 
 ## [Introduction](./Introduction/README.md)
